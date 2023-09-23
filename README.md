@@ -1,4 +1,5 @@
 # Calculadora
+
 ##Descrição
 
 Este repositório armazena o código de uma calculadora contendo testes manuais e testes automatizados no JUnit.
@@ -35,6 +36,12 @@ O projeto está estruturado em pastas:
   -Subtracao.java = Classe que possui o método subtração.
   
   -Multiplicacao.java = Classe que possui o método multiplicação.
+
+## Teste manual
+![image](https://github.com/alopes-tenor/Calculadora/assets/83618366/546a565d-d7e4-4411-8971-6b89bf32c129)
+
+##Teste JUnit
+
   
   -Divisao.java = Classe que possui o método divisão.
   
