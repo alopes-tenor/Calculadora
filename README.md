@@ -40,15 +40,13 @@ O projeto está estruturado em pastas:
   -Multiplicacao.java = Classe que possui o método multiplicação.
 
   -Divisao.java = Classe que possui o método divisão.
-
   
-## Teste manual
-![image](https://github.com/alopes-tenor/Calculadora/assets/83618366/546a565d-d7e4-4411-8971-6b89bf32c129)
 
-##Teste JUnit
+## Teste JUnit
 
-  
-  
   -Calculadora.java = Classe main para os testes e instanciação das classes, de maneira manual.
   
   -CalculadoraJUnitTest.java = Classe main para testar as operações utilizando o JUnit
+
+## Teste manual
+![image](https://github.com/alopes-tenor/Calculadora/assets/83618366/546a565d-d7e4-4411-8971-6b89bf32c129)
