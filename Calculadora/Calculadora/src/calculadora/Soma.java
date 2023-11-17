@@ -6,7 +6,12 @@ package calculadora;
 
 /**
  *
- * @author aluno
+ * @author Amanda Lopes Tenor
+ * @version 2.0
+ */
+
+/**
+ * Classe operação Soma
  */
 public class Soma {
     public int somar(int a, int b){

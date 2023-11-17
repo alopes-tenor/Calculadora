@@ -6,7 +6,12 @@ package calculadora;
 
 /**
  *
- * @author aluno
+ * @author Amanda Lopes Tenor
+ * @version 2.0
+ */
+
+/**
+ * Classe operação Subtração
  */
 public class Subtracao {
     public int subtrair(int a, int b){
