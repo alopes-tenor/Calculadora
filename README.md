@@ -52,3 +52,8 @@ O projeto está estruturado em pastas:
 
 ##  Teste JUnit
 ![image](https://github.com/alopes-tenor/Calculadora/assets/83618366/aa38ba11-2871-4ea8-81b8-8671bae0dab2)
+
+## Documentação do código
+O JavaDoc é uma ferramenta voltada para a documentação de códigos em Java. Com seu auxílio a documentação de códigos torna-se muito mais simples.
+![image](https://github.com/alopes-tenor/Calculadora/assets/83618366/2a204748-ba34-457a-8aa9-39a65f1d8fe3)
+O código foi documentado utilizando JavaDoc, foram comentados os métodos e as classes. A documentação de código é essencial para manutenção e existência de um código limpo.
